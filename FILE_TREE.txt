@@ -1,0 +1,39 @@
+THE ENGINE — PROJECT FILE TREE
+Generated: 2026-06-09 14:49 UTC
+Root: the_engine_website/nextjs_space/
+(node_modules/ and .next/ excluded — regenerated via 'npm install' / 'npm run build')
+
+.
+|-- .env.example
+|-- .eslintrc.json
+|-- .gitignore
+|-- .next
+|-- README.md
+|-- app
+|  |-- globals.css
+|  |-- layout.tsx
+|  |-- page.tsx
+|-- components
+|  |-- animated-section.tsx
+|  |-- landing-page.tsx
+|  |-- sections
+|  |  |-- breakdown-section.tsx
+|  |  |-- consequences-section.tsx
+|  |  |-- contact-section.tsx
+|  |  |-- credibility-section.tsx
+|  |  |-- cta-section.tsx
+|  |  |-- engine-section.tsx
+|  |  |-- hero-section.tsx
+|  |  |-- recognition-section.tsx
+|  |  |-- who-we-work-with-section.tsx
+|  |  |-- why-section.tsx
+|  |-- site-footer.tsx
+|  |-- site-header.tsx
+|-- next-env.d.ts
+|-- next.config.js
+|-- node_modules
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.js
+|-- tailwind.config.ts
+|-- tsconfig.json
